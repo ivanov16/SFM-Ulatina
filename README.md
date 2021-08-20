@@ -8,6 +8,7 @@ Este proyecto consiste en el paletizado de cajas que ingresan a la estacion de t
 https://youtu.be/uT4w8DV9kvQ
 
 ### DISEÑO DEL GRIPPER 
+Fue utilizado el software Fusion 360
 ![Captura de pantalla 2021-08-20 a la(s) 2 05 06 a  m](https://user-images.githubusercontent.com/66663806/130194024-3b3eb49d-10ac-436c-8ca4-3d82200e09fd.png)
 ![gripper3](https://user-images.githubusercontent.com/66663806/130194039-dfdcc409-eb91-430e-92a1-181df60f9a77.png)
 ![gripper2](https://user-images.githubusercontent.com/66663806/130194047-e41a3fe7-4529-4ea3-a0b7-d4c105e775e4.png)
@@ -22,7 +23,7 @@ Esta herramienta es la que nos permite guardar y compartir todos los archivos tr
 ### UN PACK AND WORK 
 Es el método que nos permite descomprimir los archivos que vienen empaquetados, y poder trabajarlos desde nuestros ordenadores.
 
-### HERRAMIENTAS FUNDAMNETALES PARA EL PROYECTO
+### HERRAMIENTAS FUNDAMENTALES PARA EL PROYECTO
 Para el desarrollo del diseño de este sistema se necesita el software robotstudio ABB la versión 6.08.01 instalada en una PC, puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cual permite realiazar las debidas interacciones. Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento. 
 
 ### ENLACES IMPORTANTES 
