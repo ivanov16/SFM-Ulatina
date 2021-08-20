@@ -1,6 +1,6 @@
 # PROYECTO FINAL DE SISTEMA FLEXIBLE DE MANUFACTURA 
 # PALETIZADO DE CAJAS CON ROBOT ON TRACK Y ACTUADOR TIPO GRIPPER
-Este proyecto consiste en el paletizado de cajas que ingresan a la estacion de trabajo mediante una banda transportadora donde son desmontadas por un robot y colocadas en orden ascendente en un stand para luego ser movidas por los operarios a diversas áreas de la bodega.
+Este proyecto consiste en el paletizado de cajas que ingresan a la estacion de trabajo mediante una banda transportadora donde son desmontadas por un robot IRB1520ID y colocadas en orden ascendente en un stand para luego ser movidas por los operarios a diversas áreas de la bodega.
 ### ENTREGABLE DEL PROYECTO
 [Final_pack and go.rspag.zip](https://github.com/ivanov16/SFM-Ulatina/files/7019883/Final_pack.and.go.rspag.zip)
 
