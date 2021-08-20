@@ -2,7 +2,7 @@
 # PALETIZADO DE CAJAS CON ROBOT ON TRACK Y ACTUADOR TIPO GRIPPER
 Este proyecto consiste en el paletizado de cajas que ingresan a la estacion de trabajo mediante una banda transportadora donde son desmontadas por un robot IRB1520ID y colocadas en orden ascendente en un stand para luego ser movidas por los operarios a diversas áreas de la bodega.
 ### ENTREGABLE DEL PROYECTO
-[Final_pack and go.rspag.zip](https://github.com/ivanov16/SFM-Ulatina/files/7019883/Final_pack.and.go.rspag.zip)
+https://drive.google.com/file/d/19i4OlbU5k5m6D4P_arlpweE8eZph0Vmv/view?usp=sharing
 
 ### SIMULACIÒN DEL PROYECTO EN YOUTUBE 
 https://youtu.be/uT4w8DV9kvQ
@@ -68,8 +68,10 @@ https://new.abb.com/products/robotics/es/robotstudio/descargas
 
 ### AUTORES DEL PROYECTO
 PABLO SALAZAR 
+
 BLADIMIR REINA
-JOSE FELIPE  
+
+JOSE FELIPE QUINTERO 
 
 ### AGRADECIMIENTOS 
 // agradecimiento al profesor Pablo Gonzalez por haber brindado todos sus conocimientos en el apredizaje y la utilizaciòn del software para la realizaciòn de este proyecto, deseandole èxitos en sus labores. //
