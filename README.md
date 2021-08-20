@@ -68,7 +68,7 @@ https://new.abb.com/products/robotics/es/robotstudio/descargas
 ### AUTORES DEL PROYECTO
 PABLO SALAZAR 
 BLADIMIR REINA
-JOSE FELIPE 
+JOSE FELIPE  
 
 ### AGRADECIMIENTOS 
 // agradecimiento al profesor Pablo Gonzalez por haber brindado todos sus conocimientos en el apredizaje y la utilizaciòn del software para la realizaciòn de este proyecto, deseandole èxitos en sus labores. //
